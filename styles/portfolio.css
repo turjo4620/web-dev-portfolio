@@ -86,6 +86,9 @@ nav li a{
     font-size: 18px;
     color: #757575;
 }
+.text-center{
+    text-align: center;
+}
 .about{
     border-radius: 10px;
     padding: 130px 150px;
